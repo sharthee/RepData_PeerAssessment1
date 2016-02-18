@@ -20,7 +20,6 @@ and include the number of steps taken in 5 minute intervals each day.
 
 ## Data
 
-
 The data for this assignment can be downloaded from the course web
 site:
 
